@@ -1,2 +1,1 @@
-Try to programm a chating robot.
-base on the idea of clockwork, hoping that the robot can concern the contextof the conversation.
+Conflits appear when merge. Stop this session until the conflits are solved
